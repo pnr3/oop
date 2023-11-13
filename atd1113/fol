@@ -1,2 +1,0 @@
-def ori(x):
-    return x+3
